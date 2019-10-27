@@ -1,0 +1,6 @@
+gym==0.10.9
+gym[atari]
+tensorflow-gpu==1.12.0
+opencv-python
+scipy==1.2.0
+pillow

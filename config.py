@@ -1,0 +1,9 @@
+env_name = "PongNoFrameskip-v4"
+# env_name = "CartPole-v0"
+psteps_per_it = 20
+rsteps_per_it = 10
+log_interval = 1
+model_save_interval = 20
+model_eval_interval = 10
+model_eval_steps = 10
+target_update_interval = 1
